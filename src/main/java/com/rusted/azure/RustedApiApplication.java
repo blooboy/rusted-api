@@ -11,7 +11,7 @@ public class RustedApiApplication {
 
 	@GetMapping("/message")
 	public String message() {
-		return "Spring api successfully deployed";
+		return "Spring api Rusty successfully deployed";
 	}
 
 	public static void main(String[] args) {
